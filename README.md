@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate web developer based in Saint Petersburg, Florida</h3>
+<h3 align="center">Web developer based in Saint Petersburg, Florida</h3>
 
 - 🌱 I’m currently learning **AWS cloud services**
 
